@@ -9,6 +9,7 @@
 body {
   background-color: rgb(27, 23, 23);
   scroll-behavior: auto;
+  overflowX : "none";
 }
 ul {
   list-style-type: none;
